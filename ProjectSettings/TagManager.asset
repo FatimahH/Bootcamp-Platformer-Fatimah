@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Goal
+  - Enemy
+  - Ground
+  - Collectible
   layers:
   - Default
   - TransparentFX
